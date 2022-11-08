@@ -1,6 +1,6 @@
 [![banner](assets/images/githeader.png)](https://www.linkedin.com/in/keith-yanosy/)
 
-<h1 style='text-align: center; font-weight: bold; font-size: 3rem'>
+<h1 style='font-weight: bold; font-size: 3rem;' align='center'>
 Welcome
 </h1>
 
@@ -12,7 +12,7 @@ If you are an employer, recruiter, or developer looking to work together, follow
 > [Portfolio](https://keithpyanosy.vercel.app//)  
 > [Resume](https://drive.google.com/file/d/1BRclPQ5q0Y-SMY3bEt1ana2lWFY-pyZV/view?usp=sharing) 
 
-<h1 style='text-align: center; font-weight: bold; font-size: 3rem'>
+<h1 style='font-weight: bold; font-size: 3rem;' align='center''>
 About
 </h1>
 
@@ -20,7 +20,7 @@ About
 I'm a Full Stack Developer that recently made the transtion from the Interior Design and Home Remodel Industry.
 </p>
 
-<h1 style='text-align: center; font-weight: bold; font-size: 3rem'>
+<h1 style='font-weight: bold; font-size: 3rem;' align='center''>
 Education
 </h1>
 
