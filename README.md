@@ -1,4 +1,4 @@
-[![banner](assets/images/githeader.png)](https://www.linkedin.com/in/keith-yanosy/)
+[![banner](assets/images/indeedbanner.png)](https://www.linkedin.com/in/keith-yanosy/)
 
 <h1 style='font-weight: bold; font-size: 3rem;' align='center'>
 Welcome
