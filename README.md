@@ -1,14 +1,24 @@
-<!-- <img 
-style='justify-center;'> -->
 [![banner](assets/images/indeedbanner.png)](https://www.linkedin.com/in/keith-yanosy/)
-<!-- </img> -->
 
-# About
-Hi, I'm Keith.
+<h1 style='text-align: center;'>
+Welcome.
+</h1>
+
+If you are an **employer**, **recruiter**, or **developer** looking to work together, follow the links below!
+
+> [LinkedIn](https://www.linkedin.com/in/keith-yanosy)  
+> [Portfolio](https://keithpyanosy.vercel.app//)  
+
+<h1 style='text-align: center;'>
+About
+</h1>
 
 I'm a Full Stack Developer that recently made the transtion from the Interior Design and Home Remodel Industry.
 
-# Education
+<h1 style='text-align: center;'>
+Education
+</h1>
+
 > **Bachelor of Arts**  
 > *Philosophy*  
 > Texas Wesleyan University  
@@ -36,5 +46,6 @@ I'm a Full Stack Developer that recently made the transtion from the Interior De
 > > - MERN
 > > - State
 
-# Resume
-![resume](assets/images/Resume.png)
+<h1 style='text-align: center;'>
+Technology
+</h1>
