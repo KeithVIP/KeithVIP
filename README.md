@@ -1,9 +1,12 @@
-[![banner](assets/images/banner_4.gif)](https://www.linkedin.com/in/keith-yanosy/)
+<!-- <img 
+style='justify-center;'> -->
+[![banner](assets/images/indeedbanner.png)](https://www.linkedin.com/in/keith-yanosy/)
+<!-- </img> -->
 
 # About
 Hi, I'm Keith.
 
-<!-- I'm a cybernatic warrior 🤖 on my spare time, and a professional web developer by day. -->
+I'm a Full Stack Developer that recently made the transtion from the Interior Design and Home Remodel Industry.
 
 # Education
 > **Bachelor of Arts**  
@@ -34,4 +37,4 @@ Hi, I'm Keith.
 > > - State
 
 # Resume
-![resume](assets/images/resume.png)
+![resume](assets/images/Resume.png)
