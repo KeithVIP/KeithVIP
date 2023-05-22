@@ -11,7 +11,7 @@ If you are an employer, recruiter, or developer looking to work together, follow
 <div style='font-weight: bold;' align='center'>
 
 [![LinkedIn](https://img.shields.io/badge/%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keith-yanosy)
-[![Portfolio](https://img.shields.io/badge/my-portfolio-lightgrey?style=for-the-badge)](https://keithpyanosy.vercel.app//)
+[![Portfolio](https://img.shields.io/badge/my-portfolio-lightgrey?style=for-the-badge)](https://keithyanosy.vercel.app/)
 [![Resume](https://img.shields.io/badge/my-resume-green?style=for-the-badge&logo=React%20Hook%20Form)](https://drive.google.com/file/d/1BRclPQ5q0Y-SMY3bEt1ana2lWFY-pyZV/view?usp=sharing)
 
 </div>
